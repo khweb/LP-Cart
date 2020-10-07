@@ -1,0 +1,2072 @@
+[2019-11-27 21:25:53] Текст ошибки: Исключене | Файл: /Applications/MAMP/htdocs/lpcart/public/index.php | Строка ошибки: 12 
+=====================
+[2019-11-27 21:28:33] Текст ошибки: Исключене | Файл: /Applications/MAMP/htdocs/lpcart/public/index.php | Строка ошибки: 12 
+=====================
+[2019-11-27 21:29:41] Текст ошибки: Исключене | Файл: /Applications/MAMP/htdocs/lpcart/public/index.php | Строка ошибки: 12 
+=====================
+[2019-12-04 13:21:43] Текст ошибки: Исключене | Файл: /Applications/MAMP/htdocs/lpcart/public/index.php | Строка ошибки: 12 
+=====================
+[2019-12-04 13:21:46] Текст ошибки: Исключене | Файл: /Applications/MAMP/htdocs/lpcart/public/index.php | Строка ошибки: 12 
+=====================
+[2019-12-04 13:21:48] Текст ошибки: Исключене | Файл: /Applications/MAMP/htdocs/lpcart/public/index.php | Строка ошибки: 12 
+=====================
+[2019-12-04 13:21:50] Текст ошибки: Исключене | Файл: /Applications/MAMP/htdocs/lpcart/public/index.php | Строка ошибки: 12 
+=====================
+[2019-12-04 13:23:26] Текст ошибки: Исключене | Файл: /Applications/MAMP/htdocs/lpcart/public/index.php | Строка ошибки: 12 
+=====================
+[2019-12-04 13:23:47] Текст ошибки: Исключене | Файл: /Applications/MAMP/htdocs/lpcart/public/index.php | Строка ошибки: 12 
+=====================
+[2019-12-04 19:57:11] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 28 
+=====================
+[2019-12-04 21:22:05] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 40 
+=====================
+[2019-12-04 21:22:15] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 40 
+=====================
+[2019-12-04 21:22:33] Текст ошибки: Контроллер app\controllers\MaiController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 40 
+=====================
+[2019-12-04 21:23:20] Текст ошибки: Контроллер app\controllers\MaiController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 40 
+=====================
+[2019-12-04 21:25:46] Текст ошибки: Метод aboutAction в контроллере app\controllers\PageController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 37 
+=====================
+[2019-12-04 21:27:03] Текст ошибки: Метод indexAction в контроллере app\controllers\PageController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 37 
+=====================
+[2019-12-04 21:27:20] Текст ошибки: Метод indexAction в контроллере app\controllers\PageController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 37 
+=====================
+[2019-12-04 21:27:23] Текст ошибки: Метод indexAction в контроллере app\controllers\PageController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 37 
+=====================
+[2019-12-04 21:27:28] Текст ошибки: Метод indexAction в контроллере app\controllers\PageController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 37 
+=====================
+[2019-12-04 21:31:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2019-12-04 21:32:15] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2019-12-04 21:32:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2019-12-04 21:33:10] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2019-12-04 21:33:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2019-12-04 21:33:26] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2019-12-05 14:05:01] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/lpcart/app/views/Main/index.php | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/base/View.php | Строка ошибки: 40 
+=====================
+[2019-12-05 14:06:34] Текст ошибки: Шаблон default не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/base/View.php | Строка ошибки: 47 
+=====================
+[2019-12-05 14:08:44] Текст ошибки: Шаблон default не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/base/View.php | Строка ошибки: 47 
+=====================
+[2019-12-05 14:08:45] Текст ошибки: Шаблон default не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/base/View.php | Строка ошибки: 47 
+=====================
+[2019-12-05 14:09:29] Текст ошибки: Шаблон default не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/base/View.php | Строка ошибки: 47 
+=====================
+[2019-12-05 14:09:59] Текст ошибки: Шаблон default не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/base/View.php | Строка ошибки: 48 
+=====================
+[2019-12-05 16:40:54] Текст ошибки: Метод aboutAction в контроллере app\controllers\PageController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 39 
+=====================
+[2019-12-06 09:39:16] Текст ошибки: Class 'lpcart\base\Db' not found | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/base/Model.php | Строка ошибки: 14 
+=====================
+[2019-12-06 09:48:11] Текст ошибки: Class 'R' not found | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 14 
+=====================
+[2019-12-06 09:49:31] Текст ошибки: Class 'R' not found | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 16 
+=====================
+[2019-12-06 09:49:32] Текст ошибки: Class 'R' not found | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 16 
+=====================
+[2019-12-06 09:55:19] Текст ошибки: Class 'R' not found | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 16 
+=====================
+[2019-12-06 09:55:37] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 17 
+=====================
+[2019-12-06 09:59:17] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 18 
+=====================
+[2019-12-06 09:59:18] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 18 
+=====================
+[2019-12-06 10:23:35] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 18 
+=====================
+[2019-12-06 10:23:36] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 18 
+=====================
+[2019-12-06 10:23:58] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 18 
+=====================
+[2019-12-06 10:23:58] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 18 
+=====================
+[2019-12-06 10:29:21] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 18 
+=====================
+[2019-12-06 10:32:45] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 20 
+=====================
+[2019-12-06 10:37:57] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 20 
+=====================
+[2019-12-06 10:38:35] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 20 
+=====================
+[2019-12-06 10:38:36] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 20 
+=====================
+[2019-12-06 13:18:40] Текст ошибки: Too few arguments to function RedBeanPHP\Facade::load(), 1 passed in /Applications/MAMP/htdocs/lpcart/app/controllers/MainController.php on line 12 and at least 2 expected | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 709 
+=====================
+[2019-12-06 13:23:31] Текст ошибки: Call to a member function export() on null | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/MainController.php | Строка ошибки: 14 
+=====================
+[2019-12-06 13:23:51] Текст ошибки: Call to a member function export() on array | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/MainController.php | Строка ошибки: 14 
+=====================
+[2019-12-06 13:25:45] Текст ошибки: Call to a member function export() on array | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/MainController.php | Строка ошибки: 14 
+=====================
+[2019-12-06 13:25:48] Текст ошибки: Call to a member function export() on array | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/MainController.php | Строка ошибки: 14 
+=====================
+[2019-12-06 13:25:50] Текст ошибки: Call to a member function export() on array | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/MainController.php | Строка ошибки: 14 
+=====================
+[2019-12-06 13:28:30] Текст ошибки: Call to a member function export() on array | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/MainController.php | Строка ошибки: 13 
+=====================
+[2019-12-06 14:27:38] Текст ошибки: Class 'RedBean_Plugin_QueryLogger' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/views/layouts/default.php | Строка ошибки: 18 
+=====================
+[2019-12-06 14:29:30] Текст ошибки: Class 'R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/views/layouts/default.php | Строка ошибки: 18 
+=====================
+[2019-12-06 14:30:08] Текст ошибки: Call to undefined method RedBeanPHP\Adapter\DBAdapter::getLogs() | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 27 
+=====================
+[2019-12-09 21:08:06] Текст ошибки: Контроллер app\controllers\PostController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 41 
+=====================
+[2019-12-09 21:22:01] Текст ошибки: Call to undefined function lpcart\userialize() | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Cache.php | Строка ошибки: 25 
+=====================
+[2019-12-09 21:22:03] Текст ошибки: Call to undefined function lpcart\userialize() | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Cache.php | Строка ошибки: 25 
+=====================
+[2019-12-09 21:23:04] Текст ошибки: Call to undefined function lpcart\userialize() | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Cache.php | Строка ошибки: 25 
+=====================
+[2019-12-09 21:23:05] Текст ошибки: Call to undefined function lpcart\userialize() | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Cache.php | Строка ошибки: 25 
+=====================
+[2019-12-09 21:23:06] Текст ошибки: Call to undefined function lpcart\userialize() | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Cache.php | Строка ошибки: 25 
+=====================
+[2019-12-09 21:23:38] Текст ошибки: Call to undefined function lpcart\file_get_content() | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Cache.php | Строка ошибки: 25 
+=====================
+[2019-12-09 21:23:40] Текст ошибки: Call to undefined function lpcart\file_get_content() | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Cache.php | Строка ошибки: 25 
+=====================
+[2019-12-09 21:27:08] Текст ошибки: Call to undefined function lpcart\file_get_content() | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Cache.php | Строка ошибки: 25 
+=====================
+[2019-12-13 12:54:03] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:03] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:03] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:03] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 12:54:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 13:01:08] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 13:12:05] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 13:13:59] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 13:14:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 13:14:27] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-13 13:31:44] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-16 12:35:24] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-16 12:37:18] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-16 12:37:23] Текст ошибки: Контроллер app\controllers\AaController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 41 
+=====================
+[2019-12-16 12:37:26] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-16 12:37:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-16 12:37:54] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-16 13:06:35] Текст ошибки: Контроллер app\controllers\AdasdController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 41 
+=====================
+[2019-12-19 10:51:56] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lpcart.post' doesn't exist | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2019-12-19 10:52:14] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lpcart.post' doesn't exist | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2019-12-19 10:54:34] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 10:54:43] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 11:12:18] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 11:12:25] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 11:12:27] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 11:12:37] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 11:12:39] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 11:12:40] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 11:12:42] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 11:13:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 11:15:08] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 11:15:27] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 11:15:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 12:00:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:12:26] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 8  -- keep-cache' at line 1 | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2019-12-19 13:17:24] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:17:44] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:17:44] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:19:42] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:19:42] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:27:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:27:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:27:35] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:27:36] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:28:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:28:49] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:28:51] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:28:51] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:29:03] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:29:03] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:29:08] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:29:17] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-19 13:29:18] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-20 08:34:18] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-20 08:34:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-20 08:34:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-20 08:34:25] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-20 08:34:31] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-20 08:34:34] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-20 08:34:37] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-20 08:34:39] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-20 08:34:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 46 
+=====================
+[2019-12-21 14:27:55] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-08 17:47:19] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-08 17:47:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-08 17:49:51] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-08 17:50:54] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-08 17:51:30] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-08 17:51:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 09:49:51] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 09:50:11] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 09:50:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 09:50:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 09:50:33] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 09:50:33] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 09:50:52] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 09:50:58] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 09:50:58] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 09:57:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 09:57:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 09:58:14] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 09:58:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 09:58:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 10:00:43] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 10:00:43] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 10:04:18] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 10:05:01] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 10:08:02] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 10:14:12] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 10:14:31] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 10:16:06] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 10:17:27] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 10:19:03] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 10:23:38] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 10:28:12] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 11:05:58] Текст ошибки: Class 'app\widgets\currency\Currency' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/AppController.php | Строка ошибки: 15 
+=====================
+[2020-01-09 11:10:20] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/AppController.php | Строка ошибки: 16 
+=====================
+[2020-01-09 11:29:05] Текст ошибки: Too few arguments to function app\widgets\currency\Currency::getCurrency(), 0 passed in /Applications/MAMP/htdocs/lpcart/app/controllers/AppController.php on line 17 and exactly 1 expected | Файл: /Applications/MAMP/htdocs/lpcart/app/widgets/currency/Currency.php | Строка ошибки: 27 
+=====================
+[2020-01-09 11:36:50] Текст ошибки: Too few arguments to function app\widgets\currency\Currency::getCurrency(), 0 passed in /Applications/MAMP/htdocs/lpcart/app/controllers/AppController.php on line 17 and exactly 1 expected | Файл: /Applications/MAMP/htdocs/lpcart/app/widgets/currency/Currency.php | Строка ошибки: 27 
+=====================
+[2020-01-09 11:39:03] Текст ошибки: syntax error, unexpected ';', expecting ',' or ')' | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/AppController.php | Строка ошибки: 16 
+=====================
+[2020-01-09 11:39:05] Текст ошибки: syntax error, unexpected ';', expecting ',' or ')' | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/AppController.php | Строка ошибки: 16 
+=====================
+[2020-01-09 11:39:06] Текст ошибки: syntax error, unexpected ';', expecting ',' or ')' | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/AppController.php | Строка ошибки: 16 
+=====================
+[2020-01-09 13:40:11] Текст ошибки: syntax error, unexpected 'new' (T_NEW) | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/AppController.php | Строка ошибки: 15 
+=====================
+[2020-01-09 14:00:54] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:01:19] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:03:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:03:33] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:06:55] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:07:09] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:07:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:08:02] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:08:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:08:59] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:09:37] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:09:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:10:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:10:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:11:38] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/widgets/currency/Currency.php | Строка ошибки: 19 
+=====================
+[2020-01-09 14:11:38] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:12:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:12:24] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:12:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:19:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:22:02] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:35:10] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:35:25] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:35:27] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CurrencyController.php | Строка ошибки: 10 
+=====================
+[2020-01-09 14:36:35] Текст ошибки: Call to a member function findOne() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 989 
+=====================
+[2020-01-09 14:37:28] Текст ошибки: Call to a member function findOne() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 989 
+=====================
+[2020-01-09 14:38:19] Текст ошибки: Class 'R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CurrencyController.php | Строка ошибки: 12 
+=====================
+[2020-01-09 14:38:20] Текст ошибки: Class 'R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CurrencyController.php | Строка ошибки: 12 
+=====================
+[2020-01-09 14:38:52] Текст ошибки: Call to a member function findOne() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 989 
+=====================
+[2020-01-09 14:40:27] Текст ошибки: Call to a member function findOne() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 989 
+=====================
+[2020-01-09 14:40:29] Текст ошибки: Call to a member function findOne() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 989 
+=====================
+[2020-01-09 14:49:53] Текст ошибки: Call to a member function findOne() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 989 
+=====================
+[2020-01-09 14:51:28] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CurrencyController.php | Строка ошибки: 10 
+=====================
+[2020-01-09 14:52:13] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:52:15] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CurrencyController.php | Строка ошибки: 10 
+=====================
+[2020-01-09 14:53:09] Текст ошибки: Call to a member function findOne() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 989 
+=====================
+[2020-01-09 14:54:08] Текст ошибки: Call to a member function find() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 941 
+=====================
+[2020-01-09 14:54:09] Текст ошибки: Call to a member function find() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 941 
+=====================
+[2020-01-09 14:54:23] Текст ошибки: Call to a member function find() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 941 
+=====================
+[2020-01-09 14:54:25] Текст ошибки: Call to a member function find() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 941 
+=====================
+[2020-01-09 14:55:15] Текст ошибки: Call to a member function find() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 941 
+=====================
+[2020-01-09 14:56:08] Текст ошибки: Call to a member function find() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 941 
+=====================
+[2020-01-09 14:58:13] Текст ошибки: Call to a member function find() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 941 
+=====================
+[2020-01-09 14:58:21] Текст ошибки: Call to a member function find() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 941 
+=====================
+[2020-01-09 14:58:32] Текст ошибки: Call to a member function findOne() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 989 
+=====================
+[2020-01-09 14:58:34] Текст ошибки: Call to a member function findOne() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 989 
+=====================
+[2020-01-09 14:58:44] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 14:58:46] Текст ошибки: Call to a member function findOne() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 989 
+=====================
+[2020-01-09 15:01:06] Текст ошибки: Call to a member function findOne() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 989 
+=====================
+[2020-01-09 15:01:07] Текст ошибки: Call to a member function findOne() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 989 
+=====================
+[2020-01-09 15:05:31] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CurrencyController.php | Строка ошибки: 13 
+=====================
+[2020-01-09 15:10:53] Текст ошибки: Call to a member function findOne() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 989 
+=====================
+[2020-01-09 15:19:31] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:19:35] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:19:37] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:20:33] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:20:35] Текст ошибки: Call to a member function find() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 955 
+=====================
+[2020-01-09 15:21:20] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CurrencyController.php | Строка ошибки: 10 
+=====================
+[2020-01-09 15:21:22] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CurrencyController.php | Строка ошибки: 10 
+=====================
+[2020-01-09 15:22:23] Текст ошибки: Call to a member function find() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 955 
+=====================
+[2020-01-09 15:22:24] Текст ошибки: Call to a member function find() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 955 
+=====================
+[2020-01-09 15:22:25] Текст ошибки: Call to a member function find() on null | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 955 
+=====================
+[2020-01-09 15:23:33] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/lpcart/app/views/Currency/change.php | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/base/View.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:24:50] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:24:54] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:24:56] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:24:57] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:25:00] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:25:02] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:34:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:34:25] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:34:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:37:14] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:45:33] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:47:43] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:47:50] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:48:34] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:48:37] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:49:02] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:49:12] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:50:54] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:50:57] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 15:51:43] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 16:49:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 16:49:54] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 16:49:58] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 16:55:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 17:16:46] Текст ошибки: Class 'app\controllers\Cache' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/AppController.php | Строка ошибки: 23 
+=====================
+[2020-01-09 17:17:06] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/AppController.php | Строка ошибки: 28 
+=====================
+[2020-01-09 17:17:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 17:35:39] Текст ошибки: Class 'app\widgets\menu\App' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/widgets/menu/Menu.php | Строка ошибки: 39 
+=====================
+[2020-01-09 17:35:39] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 17:35:58] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 17:36:28] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 17:36:30] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 17:36:33] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 17:36:35] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 17:36:37] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 17:49:59] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 17:50:02] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 17:50:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-09 17:50:39] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 11:18:15] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 11:18:31] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 11:18:34] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 11:18:36] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 11:26:13] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 11:37:09] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 11:37:12] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 11:37:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 11:37:19] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 11:37:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 11:37:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 11:38:09] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 11:38:12] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:00:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:00:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:00:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:00:31] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:00:31] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:00:31] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:30:30] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:32:02] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:32:36] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:33:09] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:36:34] Текст ошибки: Контроллер app\controllers\JwsController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 41 
+=====================
+[2020-01-10 12:36:39] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:37:40] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:37:43] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:37:44] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:38:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:38:51] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:38:51] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:38:54] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:38:54] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:38:54] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:39:25] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:40:15] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:41:39] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:41:57] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:42:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:43:00] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:43:17] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:43:29] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:45:33] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:46:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:54:17] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:54:20] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:57:35] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 12:59:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:00:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:19] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:01:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:11:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:11:39] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:12:03] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:13:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:14:00] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:15:50] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:20:17] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:20:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:20:47] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:21:05] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:23:34] Текст ошибки: Class 'app\controllers\Exeption' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/ProductController.php | Строка ошибки: 13 
+=====================
+[2020-01-10 13:24:19] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/ProductController.php | Строка ошибки: 14 
+=====================
+[2020-01-10 13:24:25] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:25:34] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-10 13:25:36] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:00:08] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/ProductController.php | Строка ошибки: 24 
+=====================
+[2020-01-13 13:00:10] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/ProductController.php | Строка ошибки: 24 
+=====================
+[2020-01-13 13:04:00] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:04:19] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:05:05] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:08:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:08:51] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:09:10] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:09:13] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:09:49] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:11:13] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:12:11] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:13:08] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:13:44] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:14:43] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:14:47] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:14:49] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:18:28] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:18:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:18:49] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:19:03] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:20:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:23:54] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:23:58] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:24:01] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:24:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:24:26] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:24:28] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:24:31] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:25:13] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:25:27] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:25:30] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:25:31] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:25:34] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:25:38] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 41 
+=====================
+[2020-01-13 13:25:40] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:25:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:25:53] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:26:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:26:25] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:26:29] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:26:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:26:34] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:26:36] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:28:02] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-13 13:28:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-15 13:08:18] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-15 13:09:08] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-15 13:09:38] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-15 13:10:55] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-15 13:11:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-15 13:18:33] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'related_product JOIN product ON product.id =  related_product.related_id WHERE r' at line 1 | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-01-15 13:20:03] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-15 13:20:18] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-15 13:25:58] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-15 13:26:10] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-15 13:27:17] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-15 13:27:24] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-17 12:29:18] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 20 
+=====================
+[2020-01-17 12:37:46] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 20 
+=====================
+[2020-01-17 12:38:09] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 20 
+=====================
+[2020-01-17 12:52:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-17 12:57:34] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-17 12:59:09] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lpcart.galllery' doesn't exist | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-01-17 13:07:37] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 41 
+=====================
+[2020-01-17 13:29:04] Текст ошибки: Class 'App\Models\Product' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/ProductController.php | Строка ошибки: 60 
+=====================
+[2020-01-17 13:32:50] Текст ошибки: syntax error, unexpected '}' | Файл: /Applications/MAMP/htdocs/lpcart/app/models/product.php | Строка ошибки: 17 
+=====================
+[2020-01-18 12:32:50] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-18 12:33:09] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-18 12:45:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-18 12:55:53] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 41 
+=====================
+[2020-01-20 12:47:51] Текст ошибки: Class 'app\controllers\Breadcrumbs' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/ProductController.php | Строка ошибки: 45 
+=====================
+[2020-01-20 12:48:01] Текст ошибки: Class 'App\Models\Breadcrumbs' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/ProductController.php | Строка ошибки: 46 
+=====================
+[2020-01-20 12:48:39] Текст ошибки: Class 'App\Models\Breadcrumbs' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/ProductController.php | Строка ошибки: 46 
+=====================
+[2020-01-20 12:48:41] Текст ошибки: Class 'App\Models\Breadcrumbs' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/ProductController.php | Строка ошибки: 46 
+=====================
+[2020-01-20 12:49:30] Текст ошибки: Class 'App\Models\Breadcrumbs' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/ProductController.php | Строка ошибки: 46 
+=====================
+[2020-01-20 12:50:12] Текст ошибки: Class 'app\models\App' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/models/breadcrumbs.php | Строка ошибки: 8 
+=====================
+[2020-01-20 12:50:14] Текст ошибки: Class 'app\models\App' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/models/breadcrumbs.php | Строка ошибки: 8 
+=====================
+[2020-01-20 13:11:41] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 41 
+=====================
+[2020-01-20 13:11:52] Текст ошибки: syntax error, unexpected '"' | Файл: /Applications/MAMP/htdocs/lpcart/app/models/breadcrumbs.php | Строка ошибки: 17 
+=====================
+[2020-01-20 13:11:55] Текст ошибки: syntax error, unexpected '"' | Файл: /Applications/MAMP/htdocs/lpcart/app/models/breadcrumbs.php | Строка ошибки: 17 
+=====================
+[2020-01-20 13:11:56] Текст ошибки: syntax error, unexpected '"' | Файл: /Applications/MAMP/htdocs/lpcart/app/models/breadcrumbs.php | Строка ошибки: 17 
+=====================
+[2020-01-20 13:11:57] Текст ошибки: syntax error, unexpected '"' | Файл: /Applications/MAMP/htdocs/lpcart/app/models/breadcrumbs.php | Строка ошибки: 17 
+=====================
+[2020-01-22 12:28:05] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:33:38] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 41 
+=====================
+[2020-01-22 12:33:56] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:35:31] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:36:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:38:18] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:38:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:38:24] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:38:28] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:38:30] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:38:34] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:38:37] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:39:40] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:39:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:42:06] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:44:00] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:48:18] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:52:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:53:02] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:53:27] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:53:43] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:57:20] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:57:36] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:57:43] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 12:59:31] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 13:00:15] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 13:00:42] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 13:01:36] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 13:04:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 13:04:49] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 13:04:57] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 13:08:24] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 13:08:33] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 13:08:38] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 13:09:33] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 13:09:42] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 13:09:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 13:09:50] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-22 13:12:57] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:29:53] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:37:36] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:38:05] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:38:43] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:38:52] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:39:00] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:39:47] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:41:01] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:41:24] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:48:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:49:36] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:53:57] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:53:59] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CartController.php | Строка ошибки: 14 
+=====================
+[2020-01-23 12:54:02] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CartController.php | Строка ошибки: 14 
+=====================
+[2020-01-23 12:54:28] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:54:43] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:54:44] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:56:52] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-23 12:56:52] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 12:37:05] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 12:37:12] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 12:47:15] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 12:49:05] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 12:49:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 12:49:53] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 12:50:03] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 12:51:53] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 12:52:05] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 13:02:18] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 13:02:54] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 13:10:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 13:10:25] Текст ошибки: Class 'app\models\App' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/models/Cart.php | Строка ошибки: 9 
+=====================
+[2020-01-24 13:10:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 13:11:10] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 13:11:56] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 13:23:50] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-24 13:23:59] Текст ошибки: Unsupported operand types | Файл: /Applications/MAMP/htdocs/lpcart/app/models/Cart.php | Строка ошибки: 24 
+=====================
+[2020-01-27 12:25:12] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 12:28:42] Текст ошибки: Unsupported operand types | Файл: /Applications/MAMP/htdocs/lpcart/app/models/Cart.php | Строка ошибки: 24 
+=====================
+[2020-01-27 12:56:37] Текст ошибки: Unsupported operand types | Файл: /Applications/MAMP/htdocs/lpcart/app/models/Cart.php | Строка ошибки: 24 
+=====================
+[2020-01-27 12:56:42] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 12:57:59] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 12:58:06] Текст ошибки: Unsupported operand types | Файл: /Applications/MAMP/htdocs/lpcart/app/models/Cart.php | Строка ошибки: 24 
+=====================
+[2020-01-27 12:59:01] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 12:59:38] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 12:59:43] Текст ошибки: Unsupported operand types | Файл: /Applications/MAMP/htdocs/lpcart/app/models/Cart.php | Строка ошибки: 24 
+=====================
+[2020-01-27 12:59:47] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:00:40] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:00:44] Текст ошибки: Unsupported operand types | Файл: /Applications/MAMP/htdocs/lpcart/app/models/Cart.php | Строка ошибки: 24 
+=====================
+[2020-01-27 13:01:37] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:02:50] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:02:54] Текст ошибки: Unsupported operand types | Файл: /Applications/MAMP/htdocs/lpcart/app/models/Cart.php | Строка ошибки: 24 
+=====================
+[2020-01-27 13:03:02] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:03:08] Текст ошибки: Unsupported operand types | Файл: /Applications/MAMP/htdocs/lpcart/app/models/Cart.php | Строка ошибки: 24 
+=====================
+[2020-01-27 13:03:13] Текст ошибки: Unsupported operand types | Файл: /Applications/MAMP/htdocs/lpcart/app/models/Cart.php | Строка ошибки: 24 
+=====================
+[2020-01-27 13:04:51] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:10:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:10:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:13:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:13:25] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:13:25] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:13:25] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:14:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:14:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:14:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:15:39] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:16:29] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:16:29] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:16:29] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:17:14] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:17:14] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:17:14] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:17:24] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:18:25] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:20:00] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:20:05] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:20:05] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-27 13:20:05] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:37:58] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:37:58] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:37:58] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:38:08] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:40:36] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:40:36] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:40:36] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:41:40] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:41:40] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:41:40] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:42:25] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:42:25] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:42:25] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:42:36] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 41 
+=====================
+[2020-01-28 12:45:00] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:45:00] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:45:00] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:45:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:45:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:45:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:45:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:46:57] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:47:00] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:47:01] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:47:01] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:47:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:47:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:47:53] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:47:53] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:47:53] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:48:38] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:48:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:48:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:48:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:49:17] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:49:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:49:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:49:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 12:49:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 13:05:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 13:05:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 13:05:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 13:06:15] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 13:06:19] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 13:06:19] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 13:06:19] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 13:06:28] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 13:06:28] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-28 13:06:28] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:42:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:42:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:42:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:42:57] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:44:03] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:51:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:51:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:51:51] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:51:53] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:51:55] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:52:08] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:52:33] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:55:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:55:51] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:55:59] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:56:11] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:56:17] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:57:19] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:57:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:57:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:57:36] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:57:52] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:58:10] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 12:58:25] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 13:05:43] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 13:06:49] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 13:06:55] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 13:07:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 13:08:56] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 13:09:08] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 13:10:02] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 13:11:50] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-01-29 13:13:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 13:22:00] Текст ошибки: Call to undefined method app\models\Cart::deleteItem() | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CartController.php | Строка ошибки: 53 
+=====================
+[2020-03-18 13:22:17] Текст ошибки: Call to undefined method app\models\Cart::deleteItem() | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CartController.php | Строка ошибки: 53 
+=====================
+[2020-03-18 13:27:04] Текст ошибки: Call to undefined method app\models\Cart::deleteItem() | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CartController.php | Строка ошибки: 53 
+=====================
+[2020-03-18 13:27:10] Текст ошибки: Call to undefined method app\models\Cart::deleteItem() | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CartController.php | Строка ошибки: 53 
+=====================
+[2020-03-18 13:27:16] Текст ошибки: Call to undefined method app\models\Cart::deleteItem() | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CartController.php | Строка ошибки: 53 
+=====================
+[2020-03-18 13:41:42] Текст ошибки: Call to undefined method app\models\Cart::deleteItem() | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CartController.php | Строка ошибки: 52 
+=====================
+[2020-03-18 14:08:37] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 41 
+=====================
+[2020-03-18 14:12:01] Текст ошибки: Метод viewAction в контроллере app\controllers\CartController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 38 
+=====================
+[2020-03-18 14:13:57] Текст ошибки: Метод viewAction в контроллере app\controllers\CartController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 38 
+=====================
+[2020-03-18 14:42:25] Текст ошибки: Метод viewAction в контроллере app\controllers\CartController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 38 
+=====================
+[2020-03-18 14:48:31] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 41 
+=====================
+[2020-03-18 15:08:49] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:10:42] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:15:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:15:54] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:16:00] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:16:06] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:27:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:27:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:27:40] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:28:08] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:29:18] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:29:35] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:29:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:30:30] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:30:54] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:31:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:31:24] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:37:02] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:38:56] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:39:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:43:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:44:06] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:46:15] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:47:19] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 15:52:13] Текст ошибки: Call to undefined function app\controllers\recalc() | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CurrencyController.php | Строка ошибки: 14 
+=====================
+[2020-03-18 15:52:47] Текст ошибки: Call to undefined method app\models\Cart::recalc() | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CurrencyController.php | Строка ошибки: 15 
+=====================
+[2020-03-18 16:52:57] Текст ошибки: Контроллер app\controllers\SearchController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 41 
+=====================
+[2020-03-18 16:53:12] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:03:58] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:07:38] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:08:28] Текст ошибки: Контроллер app\controllers\SearchController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 41 
+=====================
+[2020-03-18 17:08:30] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:10:37] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:10:55] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:13:35] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:13:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:13:53] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:14:28] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:14:35] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:17:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:17:29] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:18:26] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:27:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:29:03] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:31:56] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:31:59] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:33:11] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:35:20] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:35:27] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:37:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:40:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:40:34] Текст ошибки: Class 'R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:40:40] Текст ошибки: Class 'R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:40:42] Текст ошибки: Class 'R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:40:44] Текст ошибки: Class 'R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:40:44] Текст ошибки: Class 'R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:40:46] Текст ошибки: Class 'R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:40:46] Текст ошибки: Class 'R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:41:44] Текст ошибки: Class 'R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:41:44] Текст ошибки: Class 'R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:42:00] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:42:03] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:42:03] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:42:04] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:42:05] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:42:08] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:42:09] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:42:10] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:42:10] Текст ошибки: Class 'app\controllers\R' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 12 
+=====================
+[2020-03-18 17:42:57] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:42:59] Текст ошибки: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'like' | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-03-18 17:43:46] Текст ошибки: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'like' | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-03-18 17:43:46] Текст ошибки: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'like' | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-03-18 17:43:48] Текст ошибки: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'like' | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-03-18 17:43:49] Текст ошибки: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'like' | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-03-18 17:45:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:46:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:46:51] Текст ошибки: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'like' | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-03-18 17:46:51] Текст ошибки: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'like' | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-03-18 17:48:49] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:48:54] Текст ошибки: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'like' | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-03-18 17:49:51] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:49:55] Текст ошибки: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'like' | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-03-18 17:50:15] Текст ошибки: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'like' | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-03-18 17:51:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:53:29] Текст ошибки: Метод indexAction в контроллере app\controllers\SearchController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 38 
+=====================
+[2020-03-18 17:53:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-18 17:58:08] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-19 17:21:01] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-19 17:24:51] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-19 17:27:52] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-19 17:28:02] Текст ошибки: Метод indexAction в контроллере app\controllers\SearchController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 38 
+=====================
+[2020-03-19 17:28:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-19 17:29:58] Текст ошибки: Метод indexAction в контроллере app\controllers\SearchController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 38 
+=====================
+[2020-03-19 18:00:21] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lpcart.products' doesn't exist | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-03-19 18:00:37] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/lpcart/app/views/Search/index.php | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/base/View.php | Строка ошибки: 45 
+=====================
+[2020-03-19 18:18:17] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/SearchController.php | Строка ошибки: 26 
+=====================
+[2020-03-19 18:19:07] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 41 
+=====================
+[2020-03-19 18:20:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-20 15:50:27] Текст ошибки: Expected array, string given. | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Finder.php | Строка ошибки: 146 
+=====================
+[2020-03-20 15:53:30] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CategoryController.php | Строка ошибки: 13 
+=====================
+[2020-03-23 15:47:21] Текст ошибки: Call to undefined method app\models\Category::getIds() | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CategoryController.php | Строка ошибки: 21 
+=====================
+[2020-03-23 15:47:52] Текст ошибки: Call to undefined method app\models\Category::getIds() | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CategoryController.php | Строка ошибки: 21 
+=====================
+[2020-03-23 16:12:42] Текст ошибки: Call to undefined function app\controllers\find() | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CategoryController.php | Строка ошибки: 24 
+=====================
+[2020-03-23 16:12:59] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''14,6,7,5,8,9,10,'  -- keep-cache' at line 1 | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-03-23 16:14:20] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  -- keep-cache' at line 1 | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-03-23 16:14:21] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  -- keep-cache' at line 1 | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-03-23 16:14:59] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  -- keep-cache' at line 1 | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-03-23 16:25:16] Текст ошибки: Class 'app\controllers\Breadcrumbs' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CategoryController.php | Строка ошибки: 18 
+=====================
+[2020-03-23 16:25:31] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/lpcart/app/controllers/CategoryController.php | Строка ошибки: 26 
+=====================
+[2020-03-26 17:13:47] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-26 19:34:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-26 19:41:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-26 19:41:58] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-26 19:42:44] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-26 19:43:18] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-26 19:47:50] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-26 19:48:56] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-26 19:51:24] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-26 19:51:28] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 41 
+=====================
+[2020-03-26 19:51:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:37:58] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:38:02] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:38:07] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:38:10] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:38:14] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:38:17] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:38:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:38:25] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:38:29] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:38:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:38:40] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:38:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:57:20] Текст ошибки: Метод signupAction в контроллере app\controllers\UserController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 38 
+=====================
+[2020-03-27 09:57:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:57:36] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/lpcart/app/views/User/login.php | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/base/View.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:57:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:57:50] Текст ошибки: Метод signupAction в контроллере app\controllers\UserController не найден | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 38 
+=====================
+[2020-03-27 09:58:19] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/lpcart/app/views/User/signup.php | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/base/View.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:58:52] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 09:59:17] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 10:00:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 10:00:18] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 10:00:51] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 10:00:54] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 10:01:29] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 10:01:37] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 10:01:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 10:02:14] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 10:02:18] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 10:02:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 10:02:29] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 10:03:39] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 10:04:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 10:04:38] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 10:04:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-03-27 10:04:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-05-11 20:42:59] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/lpcart/app/views/User/login.php | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/base/View.php | Строка ошибки: 45 
+=====================
+[2020-05-11 20:43:04] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/lpcart/app/views/User/signup.php | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/base/View.php | Строка ошибки: 45 
+=====================
+[2020-05-11 21:04:35] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-05-11 21:06:14] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-05-11 21:07:51] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-05-11 21:08:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:50:32] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:50:44] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:50:51] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:50:57] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:51:02] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:51:08] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:51:35] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:51:38] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:51:42] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:51:45] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:51:50] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:51:53] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:51:56] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:52:01] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:52:08] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:52:11] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:52:18] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:52:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:52:28] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:52:29] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:52:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:52:53] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:53:11] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:53:19] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:53:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:53:33] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:53:36] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:53:38] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:53:39] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:55:17] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:55:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:55:24] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:55:26] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:55:31] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:55:35] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:55:48] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:56:50] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:56:56] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:57:03] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:57:05] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:57:08] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:57:28] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:57:49] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-07-15 17:59:19] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:30:11] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:30:17] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:30:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:30:23] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:32:28] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:32:31] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:32:56] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:32:59] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:33:02] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:33:05] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:33:30] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:33:35] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:33:37] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:33:41] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:33:44] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:33:49] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:34:15] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:34:19] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:34:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:47:28] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:47:31] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:57:52] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:57:57] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 12:59:53] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 13:00:10] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 13:12:58] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 13:13:02] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 13:13:16] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 13:13:34] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 13:14:50] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 13:15:04] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-08-27 13:16:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-07 13:16:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-07 13:16:46] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-07 13:16:56] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-07 13:17:10] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-07 13:17:21] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-07 13:17:31] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-07 13:17:51] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-07 13:18:06] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-08 17:12:37] Текст ошибки: Plugin 'disperense' does not exist, add this plugin using: R::ext('disperense') | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка ошибки: 3128 
+=====================
+[2020-09-08 17:15:06] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'asda@dds.ru' for key 'email' | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-09-08 17:18:13] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'asdasd' for key 'login' | Файл: /Applications/MAMP/htdocs/lpcart/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка ошибки: 194 
+=====================
+[2020-09-17 13:54:34] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 20 
+=====================
+[2020-09-17 13:54:46] Текст ошибки: Нет соединения с БД | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Db.php | Строка ошибки: 20 
+=====================
+[2020-09-17 17:07:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-17 17:08:35] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-17 17:08:39] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-17 17:08:44] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-18 12:23:59] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-18 12:35:42] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-18 12:36:31] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-18 12:36:38] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-18 12:36:50] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-18 12:37:22] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-18 12:37:28] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-18 12:38:34] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-18 12:38:39] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
+[2020-09-18 12:39:33] Текст ошибки: Страница не найдена | Файл: /Applications/MAMP/htdocs/lpcart/vendor/lpcart/core/Router.php | Строка ошибки: 45 
+=====================
